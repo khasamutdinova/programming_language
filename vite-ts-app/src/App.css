@@ -45,6 +45,7 @@
   padding: 0px;
   margin: 0px;
   box-sizing: border-box;
+  width: 100%;
  }
  .navbar {
   background-color: rgb(50, 47, 47);
@@ -53,7 +54,7 @@
  }
  .navbar ul {
   display: flex;
-  width: 600px;
+  width: 100px;
   margin: 0px auto;
   font-size: 14px;
   list-style: none;
